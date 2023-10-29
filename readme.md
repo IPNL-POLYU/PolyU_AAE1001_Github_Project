@@ -6,9 +6,6 @@
     <br />
     <a href="AAE1001 - Teaching plan 2023-34 sem.pdf"><strong>Teaching Plan</strong></a>
     <br />
-    <br />
-    <a href="Project Assessment Criteria.pdf"><strong>Assessment Criteria</strong></a>
-    <br />  
   </p>
 </p>
 
