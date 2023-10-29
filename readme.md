@@ -74,7 +74,6 @@
 *23:50pm on 3 Dec (Sun).*
 
 ### Project repository last update: 
-TBC
 *23:50pm on 3 Dec (Sun).*
 
 ## Contact
