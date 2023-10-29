@@ -97,7 +97,7 @@ Mr Feng (Darren) HUANG - darren-f.huang@connect.polyu.hk - https://github.com/Da
 Mr Penghui XU - peng-hui.xu@connect.polyu.hk
 
 *Group 10-12*
-Mr Zekun ZHANG - M304, zekun.zhang@connect.polyu.hk
+Mr Zekun ZHANG - zekun.zhang@connect.polyu.hk
 
 ## Acknowledgements
 We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
