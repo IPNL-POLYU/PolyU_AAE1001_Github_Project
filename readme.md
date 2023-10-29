@@ -68,14 +68,14 @@
 ## Deadlines:
 
 ### Project report (via Readme): 
-*23:50pm on 27 Nov (Sun).*
+*23:50pm on 3 Dec (Sun).*
 
-### Video Presentation (via Youtube): 
-*23:50pm on 27 Nov (Sun).*
+### Video Presentation (via Youtube or other sharing links): 
+*23:50pm on 3 Dec (Sun).*
 
 ### Project repository last update: 
 TBC
-*23:50pm on 27 Nov (Sun).*
+*23:50pm on 3 Dec (Sun).*
 
 ## Contact
 
@@ -88,19 +88,16 @@ Dr Guohao Zhang -  gh.zhang@polyu.edu.hk - https://github.com/GH-Zhang
 **Assistance on Your Project**
 
 *Group 1-3*
+Ms Hongmin ZHANG - hongmin.zhang@connect.polyu.hk
 
-TBC
 *Group 4-6*
+Mr Feng (Darren) HUANG - darren-f.huang@connect.polyu.hk - https://github.com/DarrenWong
 
-TBC
 *Group 7-9*
-
-TBC
+Mr Penghui XU - peng-hui.xu@connect.polyu.hk
 
 *Group 10-12*
-
-TBC
-Mr Feng (Darren) HUANG - darren-f.huang@connect.polyu.hk - https://github.com/DarrenWong
+Mr Zekun ZHANG - M304, zekun.zhang@connect.polyu.hk
 
 ## Acknowledgements
 We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
