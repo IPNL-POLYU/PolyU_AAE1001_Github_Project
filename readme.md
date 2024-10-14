@@ -83,16 +83,16 @@ Dr Guohao Zhang -  gh.zhang@polyu.edu.hk - https://github.com/GH-Zhang
 
 **Assistance on Your Project**
 
-*Group 1-3*
+*Group 1-2*
 Mr Zekun ZHANG - zekun.zhang@connect.polyu.hk
 
-*Group 4-6*
-Ms Jingxiaotao FANG - jingxiaotao2.fang@connect.polyu.hk
-
-*Group 7-8*
+*Group 3-5*
 Mr Mingda YE - 23059262R@connect.polyu.hk
 
-*Group 9-10*
+*Group 6-7*
+Ms Jingxiaotao FANG - jingxiaotao2.fang@connect.polyu.hk
+
+*Group 8-10*
 Mr Chin Lok TSANG - chin-lok.tsang@connect.polyu.hk
 
 *Group 11-12*
