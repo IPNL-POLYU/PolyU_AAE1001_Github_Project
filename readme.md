@@ -83,23 +83,21 @@ Dr Guohao Zhang -  gh.zhang@polyu.edu.hk - https://github.com/GH-Zhang
 
 **Assistance on Your Project**
 
-*Group 1-2*
+*Group 1-3*
+Dr Pneghui XU - pengh.xu@polyu.edu.hk
+
+*Group 4-6*
 Mr Zekun ZHANG - zekun.zhang@connect.polyu.hk
 
-*Group 3-5*
-Mr Mingda YE - 23059262R@connect.polyu.hk
-
-*Group 6-7*
-Ms Jingxiaotao FANG - jingxiaotao2.fang@connect.polyu.hk
-
-*Group 8-10*
-Mr Chin Lok TSANG - chin-lok.tsang@connect.polyu.hk
-
-*Group 11-12*
+*Group 7-8*
 Mr Di HAI - 23037537R@connect.polyu.hk
 
-*Group 13-14*
-Mr Zhengdao LI - 24039157R@connect.polyu.hk
+*Group 9-10*
+Mr Yidi CHEN - yi-di.chen@connect.polyu.hk
+
+*Group 11-12*
+Mr Zhen LYU - zhenn.lyu@connect.polyu.hk
+
 
 ## Acknowledgements
 We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
