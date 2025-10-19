@@ -65,7 +65,7 @@
 ## Deadlines:
 
 ### Project Presentation (in-person, all group members participated): 
-*Week 13 Lectures*
+*In week 13 lectures*
 
 ### Project Report (via Readme): 
 *23:50pm on 30 Nov (Sun).*
