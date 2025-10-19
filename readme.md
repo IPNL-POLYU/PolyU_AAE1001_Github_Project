@@ -64,14 +64,14 @@
 <!-- CONTACT -->
 ## Deadlines:
 
-### Video Presentation (via Youtube or other sharing links): 
-*Lecture on 19 or 26 Nov (Tue).*
+### Project Presentation (in-person, all group members participated): 
+*Week 13 Lectures*
 
-### Project report (via Readme): 
-*23:50pm on 1 Dec (Sun).*
+### Project Report (via Readme): 
+*23:50pm on 30 Nov (Sun).*
 
-### Project repository last update: 
-*23:50pm on 1 Dec (Sun).*
+### Peer Assessment Evaluation: 
+*23:50pm on 30 Nov (Sun).*
 
 ## Contact
 
