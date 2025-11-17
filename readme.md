@@ -59,7 +59,7 @@
 
 <a href="AAE1001 - Peer Assessment_Form.docx"><strong>Peer Assessment Form</strong></a>
 
-<a href="Week 11b - Assessment Guideline.pdf"><strong>Assessment Guideline</strong></a>
+<a href="Lecture Notes/Week 11b - Assessment Guideline.pdf"><strong>Assessment Guideline</strong></a>
 
 <!-- CONTACT -->
 ## Deadlines:
