@@ -54,4 +54,4 @@ https://www.youtube.com/watch?v=MZZw7VU9T4c&list=PLw8Oypadak9OPJjn5uPBwKzHkqce-g
    
 (Path Planning Algorithm - 2) - A star algorithm flight planning Compulsory Task 1 Tutorial & Cost intensive areas - [link](https://youtu.be/hmlWX5OEs5U)
 
-(GenAI Aided Programming - 1) - Demonstration on using Copilot to asisst complete the programming in tasks - [link] (https://www.dropbox.com/scl/fi/a2i1old8zufgtev2eqyk4/AAE1001-Lec-11b.mp4?rlkey=67fjszlgiuymdu9p5zhehyf7o&dl=0)
+(GenAI Aided Programming - 1) - Demonstration on using Copilot to asisst complete the programming in tasks - [link](https://www.dropbox.com/scl/fi/a2i1old8zufgtev2eqyk4/AAE1001-Lec-11b.mp4?rlkey=67fjszlgiuymdu9p5zhehyf7o&dl=0)
