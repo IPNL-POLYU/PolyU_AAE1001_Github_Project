@@ -67,7 +67,7 @@
 ### Project Presentation (in-person, all group members participated): 
 *24 November 2025, Monday 16:30-18:20, PQ306*
 
-*25 November 2025, Tuesday 16:30-18:20, PQ305*
+*25 November 2025, Tuesday 18:50-20:40, PQ305*
 
 <a href="AAE1001 Group Project Presentation Arrangements.pdf"><strong>Presentation Group Arrangements</strong></a>
 
