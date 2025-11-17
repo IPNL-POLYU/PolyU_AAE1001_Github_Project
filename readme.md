@@ -4,7 +4,7 @@
 
   <p align="center">
     <br />
-    <a href="AAE1001 - Teaching plan 2025-26 sem 1 - ver 3"><strong>Teaching Plan</strong></a>
+    <a href="AAE1001 - Teaching plan 2025-26 sem 1 - ver 3.pdf"><strong>Teaching Plan</strong></a>
     <br />
   </p>
 </p>
