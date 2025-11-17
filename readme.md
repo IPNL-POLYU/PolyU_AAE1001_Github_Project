@@ -43,29 +43,32 @@
 <a href="Sample%20Codes/"><strong>Sample Codes</strong></a>
 
 <!-- Student Tasks -->
-## Student Tasks (will be updated later, testing today)
+## Student Tasks
 
 ### Path Planning Tasks Tasks
 
-<a href="Lecture Notes/Slides by Topics/Compulsory Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/hmlWX5OEs5U)</strong>
+<a href="Lecture Notes/Week 9b - Project Tasks 1-3.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/hmlWX5OEs5U)</strong>
 
-<a href="Lecture Notes/Slides by Topics/Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
+<a href="Lecture Notes/Week 11a - Project Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
 
 ### README.md Report
 
-<a href="Lecture Notes/Slides by Topics/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Slides by Topics/Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
+<strong>[README Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>
 
 ### Other Materials
 
-<a href="Peer review_AAE2004.pdf"><strong>Peer Assessment Form</strong></a>
+<a href="AAE1001 - Peer Assessment_Form.docx"><strong>Peer Assessment Form</strong></a>
 
-<a href="Lecture Notes/Slides by Topics/Presentation Requirements.pdf"><strong>Presentation Requirements</strong></a>
+<a href="Week 11b - Assessment Guideline.pdf"><strong>Assessment Guideline</strong></a>
 
 <!-- CONTACT -->
 ## Deadlines:
 
 ### Project Presentation (in-person, all group members participated): 
-*In week 13 lectures*
+*24 November 2025, Monday 16:30-18:20, PQ306*
+*25 November 2025, Tuesday 16:30-18:20, PQ305*
+<a href="AAE1001 Group Project Presentation Arrangements.pdf"><strong>Presentation Group Arrangements</strong></a>
+Detailed group arrangements
 
 ### Project Report (via Readme): 
 *23:50pm on 30 Nov (Sun).*
@@ -84,7 +87,7 @@ Dr Guohao Zhang -  gh.zhang@polyu.edu.hk - https://github.com/GH-Zhang
 **Assistance on Your Project**
 
 *Group 1-3*
-Dr Pneghui XU - pengh.xu@polyu.edu.hk
+Dr Pneghui XU - xphsean12@163.com
 
 *Group 4-6*
 Mr Zekun ZHANG - zekun.zhang@connect.polyu.hk
@@ -102,6 +105,5 @@ Mr Zhen LYU - zhenn.lyu@connect.polyu.hk
 ## Acknowledgements
 We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
 
-## Testing on github
 
 
